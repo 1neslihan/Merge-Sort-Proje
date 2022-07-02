@@ -32,3 +32,5 @@
 
 Her aşamada sorguladığımız eleman sayısı yarı yarıya düşmektedir ve bu durum ***n*** adım boyunca tekrarlanmaktadır. Buradan yola çıkarak 2^x = logn tek bir adımın karmaşıklığı olarak hesaplanabilir. Elimizde ***n*** tane adım olduğu için Big-O gösterimi O(nlogn) şeklinde hesaplanır.
 
+Patika dev hesabıma ulaşmak için [buraya tıklayın](https://app.patika.dev/nes)
+
